@@ -1,2 +1,2 @@
-## ola tudo bem ? me chamo Juan Nauan 
+## ola tudo bem ? Me chamo Juan Nauan 
 Estudante de Analise e Desenvolvimento de Sistemas .
